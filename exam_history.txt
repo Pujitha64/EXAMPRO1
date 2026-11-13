@@ -1,0 +1,16 @@
+Student Name: studentname
+Date: 12-11-2026 15:58:24
+Total Questions: 3
+Correct Answers: 3
+Marks: 3
+Percentage: 100.00%
+Status: PASS
+----------------------------------------
+Student Name: studentname
+Date: 12-11-2026 16:01:28
+Total Questions: 3
+Correct Answers: 2
+Marks: 2
+Percentage: 66.67%
+Status: PASS
+----------------------------------------
